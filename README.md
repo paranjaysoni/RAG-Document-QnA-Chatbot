@@ -42,12 +42,11 @@ The system retrieves relevant document chunks from the uploaded PDFs and generat
 
 ## Folder Structure
 RAG Document QnA/
-│
-├── research_papers/
-├── app.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+|-research_papers/
+|-app.py
+|-requirements.txt
+|-.gitignore
+|-README.md
 
 ---
 
