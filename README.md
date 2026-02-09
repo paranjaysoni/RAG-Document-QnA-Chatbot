@@ -110,9 +110,6 @@ streamlit run app.py
 
 **Paranjay Soni**
 
-Engineering Student | AI/ML Enthusiast  
-Currently exploring GenAI, RAG Systems, and LLM Applications.
-
 ---
 
 ## License
